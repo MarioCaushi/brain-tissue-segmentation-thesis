@@ -76,9 +76,34 @@ The thesis report includes:
 
 ---
 
+## Results
+
+The table below shows the segmentation performance using the Dice Similarity Coefficient (DSC) for the best configuration of each model:
+
+| Model       | Avg DSC  | CSF    | GM    | WM    |
+|-------------|---------|-------|-------|-------|
+| K-Means      | 0.5880  | 0.0000 | 0.8820 | 0.8830 |
+| FCM          | 0.5910  | 0.0010 | 0.8910 | 0.8820 |
+| CNN          | 0.3720  | 0.0000 | 0.5720 | 0.5420 |
+| U-Net        | 0.7508  | 0.5280 | 0.8807 | 0.8435 |
+| DenseUNet    | 0.6387  | 0.2632 | 0.8291 | 0.8238 |
+
+---
+
 ## File Included
 
 - `MC_Thesis.pdf`: Complete thesis report (text, methodology, results, diagrams, discussion)
+
+---
+
+## Future Work
+
+This thesis can be extended with the following ideas:
+
+- **Transformer-based Models:** Implement Vision Transformers (ViTs) or hybrid CNN–Transformer architectures for volumetric segmentation.
+- **Post-Processing Refinement:** Use Conditional Random Fields (CRFs) or morphological operations to enhance segmentation boundaries.
+- **Larger & Multimodal Datasets:** Apply the models to bigger, diverse datasets for better generalization.
+- **3D Instance Segmentation:** Explore anatomical structure–level segmentation for finer granularity.
 
 ---
 
