@@ -1,3 +1,5 @@
+# Brain Tissue Segmentation Using Different AI Architectures
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.14-orange?logo=tensorflow&logoColor=white)
@@ -7,9 +9,6 @@
 ![Dataset](https://img.shields.io/badge/Dataset-ISBR18-yellow)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-
-
-# Brain Tissue Segmentation Using Different AI Architectures
 
 This repository contains the final report for my undergraduate thesis titled  
 **"Brain Tissue Segmentation Using Different AI Architectures"**,  
