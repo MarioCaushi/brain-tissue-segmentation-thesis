@@ -7,7 +7,7 @@
 ![Medical Imaging](https://img.shields.io/badge/Domain-Medical%20Imaging-lightblue)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN%2FUNet-brightgreen)
 ![Dataset](https://img.shields.io/badge/Dataset-ISBR18-yellow)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 This repository contains the final report for my undergraduate thesis titled  
